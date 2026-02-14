@@ -2,3 +2,10 @@ __pycache__/
 *.pkl
 *.db
 .env
+# Data and local storage
+data/
+raw_zone/
+model_store/
+
+# All CSV files
+*.csv
